@@ -1,8 +1,13 @@
 # ReadMe Generator
 
+## How-To Video
+https://drive.google.com/file/d/1OFoUz0aAZ7jfjp7xk2kC6C0-xxIvrhTa/view
+
 ## Description 
 
  Creating ReadME's
+ <img width="1070" alt="Screen Shot 2021-05-03 at 8 18 45 PM" src="https://user-images.githubusercontent.com/74374839/116957547-f43c0c00-ac4c-11eb-9b76-4d19e348dff8.png">
+
 
 ## Table of Contents (Optional)
 
@@ -32,7 +37,7 @@ abigail
 
 ## Contributing
 
-abby and phil
+Abigail Adams
 
 ## Tests
 
